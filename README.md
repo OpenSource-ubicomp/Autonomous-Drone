@@ -1,5 +1,14 @@
 # Autonomous-Drone
 
-## Local Preferences
+## Robomaster library
+### 설치 과정
+- pip install robomaster
+- pip install --upgrade robomaster
+  
+### Local Preferences
 - Drone과 ap연결 후 ifconfig를 통해 주소를 알아내야 한다
 - 이후 알아낸 주소로 ???에 입력해준다 (robomaster.config.LOCAL_IP_STR = "???")
+
+## DJITelloPy library
+### 설치 과정 
+- pip install djitellopy or pip3 install djitellopy
