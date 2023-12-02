@@ -12,3 +12,9 @@
 ## DJITelloPy library
 ### 설치 과정 
 - pip install djitellopy or pip3 install djitellopy
+
+
+
+---
+### 기본적인 가이드
+- https://dl-cdn.ryzerobotics.com/downloads/Tello/Tello%20SDK%202.0%20User%20Guide.pdf
