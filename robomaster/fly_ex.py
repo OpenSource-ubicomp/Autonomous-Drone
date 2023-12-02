@@ -13,7 +13,7 @@ if __name__ == '__main__':
 
     tl_flight.forward(distance=50).wait_for_completed()
     tl_flight.backward(distance=50).wait_for_completed()
-    tl_flight.flip(direction="f").wait_for_completed()
+    #tl_flight.flip(direction="f").wait_for_completed()
 
     tl_flight.land().wait_for_completed()
 
