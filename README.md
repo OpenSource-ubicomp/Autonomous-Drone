@@ -18,3 +18,9 @@
 ---
 ### 기본적인 가이드
 - https://dl-cdn.ryzerobotics.com/downloads/Tello/Tello%20SDK%202.0%20User%20Guide.pdf
+
+
+### propeller cover
+* [link](https://www.printables.com/model/275499-tello-drone-propeller-guard-v3/files)
+
+![스크린샷 2023-12-04 오전 1 45 49](https://github.com/OpenSource-ubicomp/Autonomous-Drone/assets/57317636/d9fc65e5-b35c-44ae-a01a-b1d3338b5467)
